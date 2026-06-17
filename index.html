@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>Paraxiom APT repository</title>
+<h1>Paraxiom APT repository</h1>
+<p>Post-quantum tooling (qssh, …), GPG-signed.</p>
+<pre>
+curl -fsSL https://paraxiom.github.io/apt/paraxiom.gpg | sudo tee /usr/share/keyrings/paraxiom.gpg &gt;/dev/null
+echo "deb [signed-by=/usr/share/keyrings/paraxiom.gpg] https://paraxiom.github.io/apt stable main" \
+  | sudo tee /etc/apt/sources.list.d/paraxiom.list
+sudo apt-get update
+sudo apt-get install qssh
+</pre>

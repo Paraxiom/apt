@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Paraxiom
+Label: Paraxiom
+Architecture: arm64
+Description: Paraxiom APT repository (post-quantum tooling)

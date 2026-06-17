@@ -1,0 +1,29 @@
+Origin: Paraxiom
+Label: Paraxiom
+Suite: stable
+Codename: stable
+Date: Wed, 17 Jun 2026 15:49:02 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Paraxiom APT repository (post-quantum tooling)
+MD5Sum:
+ 91d89e2941496b0ebe98f9b3bf2a00f1 1038 main/binary-amd64/Packages
+ 09b6c6dab7c2b2970c0b28faeff67ae2 634 main/binary-amd64/Packages.gz
+ d0002d234021c295fb42dcde80ba7e93 145 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ e8c807aaf85e4f21255331bdc1beae8a 145 main/binary-arm64/Release
+SHA1:
+ 44251ea3fbc239b9cd5dbe884ca3ad151e3f69bf 1038 main/binary-amd64/Packages
+ e46aba83cd12dc4ef1171706994433512f334c86 634 main/binary-amd64/Packages.gz
+ e88b34db8f495545c8b6bdeb1823621ff06da1d4 145 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 44c987fc92ead887b8486c6914de65a5c89b0dea 145 main/binary-arm64/Release
+SHA256:
+ c75988bc3adf0549faa7ecd293a2e3a3fcf1ce17becdb36cfdf3c43a43ffc85c 1038 main/binary-amd64/Packages
+ 4ae38a54476892ad3bfa0badcd98b2f186fbd99931612c36b587c9287f1562b3 634 main/binary-amd64/Packages.gz
+ 4e8a0904e692f7c841ea10b492da09e3ba04149b5229eb50be6da5053517a2b5 145 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ aed18f8156c35d0de11417d1518379dac52ef8b4dc145a22439dfca22d8d620e 145 main/binary-arm64/Release
