@@ -1,17 +1,17 @@
 Package: qssh
-Version: 0.4.0-1
+Version: 0.4.2-1
 Architecture: amd64
 Homepage: https://github.com/Paraxiom/qssh
 Maintainer: Paraxiom <sylvain@paraxiom.org>
-Installed-Size: 31528
+Installed-Size: 31463
 Depends: libc6 (>= 2.34), libc6 (>= 2.39)
 Priority: optional
 Section: net
-Filename: pool/main/q/qssh/qssh_0.4.0-1_amd64.deb
-Size: 5522408
-SHA256: 3eb9d1738f173e2014d533efa3b6dd888d717b3b17e9baba8c51d3fa484f8a48
-SHA1: 839f742a3e59af0f49cdc93b0feb5af2f80e1676
-MD5sum: 65128ca2535542cd117373551e42d479
+Filename: pool/main/q/qssh/qssh_0.4.2-1_amd64.deb
+Size: 5515676
+SHA256: fc75c232e2cebd3cd79eb464e67b65f055b4e378686874e16a063ce983d61dbc
+SHA1: 0ca2267f09f8b65582a0e540b3712a3819251993
+MD5sum: ff6d6c84fcfd18a3e807f9e6c72049e3
 Description: Post-quantum secure shell with NIST PQC algorithms (Falcon, SPHINCS+, ML-KEM),
  configurable security tiers, and quantum-resistant protocol design
  QSSH is a post-quantum secure shell: an SSH-style client/server suite using
